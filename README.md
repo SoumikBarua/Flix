@@ -31,7 +31,7 @@ Bonus feature 1 (iPhone 11 & iPhone 11 Pro Max: portrait + landscape orientation
 
 Bonus feature 2 (Physical device iPhone 7 running iOS 13.3)
 
-![Bonus feature 2](bonus2.mp4)
+![Bonus feature 2](bonus2.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
