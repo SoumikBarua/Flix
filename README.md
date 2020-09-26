@@ -21,17 +21,17 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-Required features
+Required features (iPhone 8 Plus on Xcode simulator)
 
 ![Require features](required.gif)
 
-Bonus feature 1 (iPhone 11 & iPhone 11 Pro Max: portrait + landscape orientations)
+Bonus feature 1 (iPhone 11 & iPhone 11 Pro Max: portrait + landscape orientations on Xcode Simulator)
 
 ![Bonus feature 1](bonus1.gif)
 
-Bonus feature 2
+Bonus feature 2 (Physical device iPhone 7 running iOS 13.3)
 
-![Bonus feature 2](bonus2.gif)
+![Bonus feature 2](bonus2.mp4)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
