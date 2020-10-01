@@ -15,7 +15,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+Required features (iPhone 8 Plus on Xcode simulator)
+
+![Required features](part2_required.gif)
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
@@ -41,15 +44,15 @@ Describe any challenges encountered while building the app.
 
 Required features (iPhone 8 Plus on Xcode simulator)
 
-![Require features](required.gif)
+![Required features](part1_required.gif)
 
 Bonus feature 1 (iPhone 11 & iPhone 11 Pro Max: portrait + landscape orientations on Xcode Simulator)
 
-![Bonus feature 1](bonus1.gif)
+![Bonus feature 1](part1_bonus1.gif)
 
 Bonus feature 2 (Physical device iPhone 7 running iOS 13.3)
 
-![Bonus feature 2](bonus2.gif)
+![Bonus feature 2](part1_bonus2.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
