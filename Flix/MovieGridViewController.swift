@@ -78,12 +78,9 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         let cell = sender as! UICollectionViewCell
         let indexPath = collectionView.indexPath(for: cell)!
         let movie = movies[indexPath.item]
-        print("about to pass")
-        print(movie)
         
-        let detailsViewController = segue.destination as! MovieDetailsViewController
+        let detailsViewController = segue.destination as! MovieGridDetailsViewController
         detailsViewController.movie = movie
-        print("title is \(movie["title"])")
         
     }
 
